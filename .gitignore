@@ -2,4 +2,4 @@ venv
 .vscode
 variable.py
 __pycache__
-/variable.cpython-312.pyc
+variable.cpython-312.pyc
